@@ -11,7 +11,7 @@
 // this will store maximum 5 number of elements
 
 int top = -1, stack[MAX];
-// Here top = -1 because top will alway point at n-1 index, means at index 1
+// Here top = -1 because top will always point at n-1 index, means at index 1
 
 void push();        // Creating functions here
 void pop();
