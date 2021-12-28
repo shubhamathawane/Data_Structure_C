@@ -16,7 +16,7 @@ void main()
     printf("Enter the element to be search : ");
     scanf("%d", &sElement);
 
-    // Linear search login
+    // Linear search logic
     for (i = 0; i < size; i++)
     {
         if (sElement == list[i])
